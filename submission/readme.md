@@ -92,7 +92,7 @@ In summary, this folder structure appears to be organizing a GitHub repository b
 | 26 | MUHAMMAD NAQUIB BIN ZAKARIA | <a href="nqbzkr01" ><img src="../images/folder.png" width="24px" height="24px" ></a> | 
 | 27 | MYZA NAZIFA BINTI NAZRY | <a href="myzanazifah" ><img src="../images/folder.png" width="24px" height="24px" ></a> | 
 | 28 | NAYLI NABIHAH BINTI JASNI | <a href="nellyexey" ><img src="../images/folder.png" width="24px" height="24px" ></a> | 
-| 29| NUR IRDINA ALIAH BINTI ABDUL WAHAB | <a href="Deelia99" ><img src="../images/folder.png" width="24px" height="24px" ></a> | 
+| 29| NUR IRDINA ALIAH BINTI ABDUL WAHAB | <a href="Deelia99" ><img src="[../images/folder.png](https://github.com/drshahizan/SECP3843/blob/30fc8deda83791426961126eafb70a3cef1a9a0b/submission/IA/read.md)" width="24px" height="24px" ></a> | 
 | 30 | NUR IZZAH MARDHIAH BINTI RASHIDI | <a href="izzahmardhiah" ><img src="../images/folder.png" width="24px" height="24px" ></a> | 
 | 31 | NUR SYAMALIA FAIQAH BINTI MOHD KAMAL | <a href="nursyamalia" ><img src="../images/folder.png" width="24px" height="24px" ></a> | 
 | 32 | NURARISSA DAYANA BINTI MOHD SUKRI | <a href="yanakunn" ><img src="../images/folder.png" width="24px" height="24px" ></a> | 
